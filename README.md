@@ -51,7 +51,7 @@ The goal is to make chatbot training faster, cheaper, and more efficient, especi
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 The model is evaluated using:
 - **Perplexity**
